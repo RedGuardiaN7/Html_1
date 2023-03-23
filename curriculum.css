@@ -7,5 +7,40 @@ body {
     color: rgb(104, 140, 231);
     font-size: 35px;
     font-weight: 700;
+    position: relative;
+    right: 3px;
 }
 
+img {
+    width: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.icon {
+    float: left;
+    margin-top: 17px;
+}
+
+#second_icon {
+    position: relative;
+    right: 3px;
+    bottom: 2px;
+    float: left;
+    width: 28px;
+}
+
+#third_icon {
+    position: relative;
+    right: 1px;
+    bottom: 2px;
+    float: left;
+    width: 26px;
+}
+
+#mail {
+    color:rgb(109, 109, 109);
+}
