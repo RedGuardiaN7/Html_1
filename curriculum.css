@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color:rgb(109, 109, 109);
+}
+
+.subtitle {
+    color: rgb(104, 140, 231);
+    font-size: 35px;
+    font-weight: 700;
+}
+
